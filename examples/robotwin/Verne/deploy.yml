@@ -1,0 +1,18 @@
+policy_name: Verne
+protocol: ws
+eval_batch: false
+action_type: joint
+# Set by setup_eval_policy_server.sh for each run.
+host: localhost
+port: null
+bench_name: null
+task_name: null
+env_cfg_type: null
+seed: null
+# A Hugging Face repo or a local folder.
+checkpoint: vernerobotics/v0.5-robotwin
+compile: false
+# Env steps (0.06 s each) between chunks.
+replan_steps: 10
+# Targets of the running chunk that each new chunk keeps (real-time chunking). 0 = off.
+delay: 6

@@ -1,0 +1,8 @@
+h5py
+msgpack
+msgpack-numpy
+opencv-python-headless
+pydantic
+pyyaml
+scipy>=1.14
+websockets

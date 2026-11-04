@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1104" height="232" viewBox="0 0 1104 232" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Real-time action chunking">
+<text x="0" y="69" font-size="13" font-weight="600" text-anchor="start" fill="#0b0b0b">Running chunk</text>
+<text x="0" y="85" font-size="11" font-weight="400" text-anchor="start" fill="#52514e">from the frame at t0</text>
+<rect x="150" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="165.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a1</text>
+<rect x="184" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="199.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a2</text>
+<rect x="218" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="233.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a3</text>
+<rect x="252" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="267.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a4</text>
+<rect x="286" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="301.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a5</text>
+<rect x="320" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="335.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a6</text>
+<rect x="354" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="369.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a7</text>
+<rect x="388" y="52" width="30" height="36" rx="5" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="403.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a8</text>
+<rect x="422" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="437.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a9</text>
+<rect x="456" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="471.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a10</text>
+<rect x="490" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="505.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a11</text>
+<rect x="524" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="539.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a12</text>
+<rect x="558" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="573.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a13</text>
+<rect x="592" y="52" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="607.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a14</text>
+<rect x="626" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="641.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a15</text>
+<rect x="660" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="675.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a16</text>
+<rect x="694" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="709.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a17</text>
+<rect x="728" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="743.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a18</text>
+<rect x="762" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="777.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a19</text>
+<rect x="796" y="52" width="30" height="36" rx="5" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="811.0" y="75" font-size="10" font-weight="500" text-anchor="middle" fill="#898781">a20</text>
+<text x="0" y="147" font-size="13" font-weight="600" text-anchor="start" fill="#0b0b0b">Next chunk</text>
+<text x="0" y="163" font-size="11" font-weight="400" text-anchor="start" fill="#52514e">from the frame at t</text>
+<rect x="422" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="437.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a9</text>
+<rect x="456" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="471.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a10</text>
+<rect x="490" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="505.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a11</text>
+<rect x="524" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="539.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a12</text>
+<rect x="558" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="573.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a13</text>
+<rect x="592" y="130" width="30" height="36" rx="5" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="607.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">a14</text>
+<rect x="626" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="641.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b7</text>
+<rect x="660" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="675.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b8</text>
+<rect x="694" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="709.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b9</text>
+<rect x="728" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="743.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b10</text>
+<rect x="762" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="777.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b11</text>
+<rect x="796" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="811.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b12</text>
+<rect x="830" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="845.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b13</text>
+<rect x="864" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="879.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b14</text>
+<rect x="898" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="913.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b15</text>
+<rect x="932" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="947.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b16</text>
+<rect x="966" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="981.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b17</text>
+<rect x="1000" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="1015.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b18</text>
+<rect x="1034" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="1049.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b19</text>
+<rect x="1068" y="130" width="30" height="36" rx="5" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="1083.0" y="153" font-size="10" font-weight="500" text-anchor="middle" fill="#0b0b0b">b20</text>
+<line x1="420.0" y1="22" x2="420.0" y2="174" stroke="#52514e" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="414.0" y="16" font-size="12" font-weight="600" text-anchor="end" fill="#0b0b0b">t</text>
+<line x1="420.0" y1="40" x2="624.0" y2="40" stroke="#ff4e0e" stroke-width="2"/>
+<line x1="420.0" y1="34" x2="420.0" y2="46" stroke="#ff4e0e" stroke-width="2"/>
+<line x1="624.0" y1="34" x2="624.0" y2="46" stroke="#ff4e0e" stroke-width="2"/>
+<text x="632.0" y="44" font-size="11" font-weight="600" text-anchor="start" fill="#0b0b0b">inference: the robot runs d = 6 rows, 0.2 s</text>
+<line x1="624.0" y1="90" x2="624.0" y2="174" stroke="#ff4e0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="632.0" y="188" font-size="11" font-weight="400" text-anchor="start" fill="#52514e">the new plan takes over here</text>
+<rect x="150" y="208" width="14" height="14" rx="3" fill="#f3f2ee" stroke="#d6d4cc" stroke-width="1"/>
+<text x="172" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">already run</text>
+<rect x="279.2" y="208" width="14" height="14" rx="3" fill="#ffb48f" stroke="#ff4e0e" stroke-width="1"/>
+<text x="301.2" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">action prefix: kept exactly</text>
+<rect x="523.6" y="208" width="14" height="14" rx="3" fill="none" stroke="#d6d4cc" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="545.6" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">replaced</text>
+<rect x="631.2" y="208" width="14" height="14" rx="3" fill="#ffe6db" stroke="#ff4e0e" stroke-width="1"/>
+<text x="653.2" y="220" font-size="12" font-weight="400" text-anchor="start" fill="#52514e">new rows</text>
+</svg>

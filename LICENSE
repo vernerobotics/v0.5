@@ -1,0 +1,246 @@
+Verne V0.5 Model License
+Version 1.0
+
+This license is an agreement between You and Verne Labs, Inc. ("Verne"). It covers
+the Verne V0.5 Materials. If You use, copy, modify, or distribute the Materials, You
+accept this license. You also accept this license when You submit an online form
+that asks You to accept it, such as the access request form for the Materials. If
+You do not accept it, do not use the Materials.
+
+1. Definitions
+
+"Materials" means the Verne V0.5 model weights and parameters, their configuration
+files, the source code, scripts, and examples that Verne distributes with them, and
+their documentation, as Verne distributes them under this license.
+
+"Derivative" means any work that contains the Materials or a part of them, or that
+is made from them. Examples are a fine-tuned model, a modified or merged model, a
+quantized or compressed model, and a model trained by distillation from the
+Materials.
+
+"Output" means the actions and other results that the Materials or a Derivative
+produce.
+
+"Recorded Data" means data that You record while a robot runs the Materials or a
+Derivative, such as camera images, robot states, human corrections, and task
+outcomes. Recorded Data is not a Derivative. You may use it to train any model. A
+model that You train mainly to reproduce the Output of the Materials is a Derivative.
+
+"You" means the person or legal entity that uses the Materials. If You accept this
+license for an organization, "You" includes that organization.
+
+"Affiliate" means an entity that controls You, that You control, or that is under
+common control with You. "Control" means ownership of more than 50% of the voting
+interests of an entity, or the power to direct its management.
+
+"Annual Revenue" means the total gross revenue of You and Your Affiliates, from all
+sources, in the most recent completed fiscal year, in US dollars.
+
+"Research Use" means use for non-commercial research, teaching, evaluation, or
+benchmarking. It does not include use of the Materials, a Derivative, or their
+output in a product or service that You sell, license, or operate for revenue, or
+in Your business operations.
+
+"Commercial Use" means any use that is not Research Use.
+
+"Revenue Threshold" means US$5,000,000.
+
+2. License grant
+
+Subject to the terms of this license, Verne grants You a worldwide, non-exclusive,
+royalty-free license that lasts until it ends under Section 14 and that You may
+transfer only as Section 15(g) permits, under the copyrights and patents of Verne
+in the Materials, to use, copy, modify, and distribute the Materials, and to make,
+use, and distribute Derivatives.
+
+3. Who may use the Materials free of charge
+
+(a) Research Use. Any person or organization may make Research Use of the
+    Materials, at any Annual Revenue.
+
+(b) Commercial Use. You may make Commercial Use of the Materials only if Your Annual
+    Revenue is at or below the Revenue Threshold.
+
+(c) Above the Revenue Threshold. If Your Annual Revenue is above the Revenue
+    Threshold, this license gives You no right to make Commercial Use. You must
+    first get a separate commercial license from Verne. Send requests to
+    partnership@vernerobotics.com.
+
+(d) Crossing the Revenue Threshold. If Your Annual Revenue goes above the Revenue
+    Threshold while You make Commercial Use, You may continue that use for 90 days.
+    In those 90 days, You must get a commercial license from Verne or stop the
+    Commercial Use.
+
+(e) End users. A customer that only uses a product or service of Yours that runs
+    the Materials or a Derivative, and that does not get the Materials or the
+    Derivative separately from that product or service, is an end user. An end
+    user needs no license from Verne, and its revenue does not count as Your
+    Annual Revenue. Your terms with each end user must require it to obey
+    Sections 4 to 6.
+
+4. Trade controls and sanctions
+
+(a) You must obey all export control and sanctions laws that apply to You and to
+    the Materials. These include the US Export Administration Regulations (EAR),
+    the International Traffic in Arms Regulations (ITAR), and the sanctions
+    programs of the US Treasury Office of Foreign Assets Control (OFAC).
+
+(b) You must not use, access, export, re-export, or transfer the Materials or a
+    Derivative:
+
+    (i)   in a country or region that is under comprehensive US sanctions or a US
+          embargo at the time of the use or transfer, or to a person who normally
+          lives in such a country or region;
+
+    (ii)  to or for a person on a US restricted-party list, or to or for an entity
+          that such persons own 50% or more of, alone or together. These lists
+          include the OFAC Specially Designated Nationals and Blocked Persons
+          List, and the Entity List, Denied Persons List, Unverified List, and
+          Military End-User List of the US Bureau of Industry and Security; or
+
+    (iii) for an end use that US export law prohibits, or that needs a US license
+          that You do not have. These end uses include the design, development,
+          production, or use of nuclear, chemical, or biological weapons or
+          missiles, and military end uses and end users that US law restricts.
+
+(c) You represent that You are not in a country or region in Section 4(b)(i), and
+    that You are not a person or entity in Section 4(b)(ii).
+
+5. Use restrictions
+
+You must not use the Materials or a Derivative to:
+
+(a) design, develop, operate, or control a weapon, or a system whose purpose is to
+    injure people or damage property;
+
+(b) injure, harass, or intimidate a person;
+
+(c) do unlawful surveillance of a person;
+
+(d) break any law or regulation that applies to You; or
+
+(e) help another person do any of these.
+
+6. Physical safety
+
+The Materials output actions that can move physical machines. A machine that moves
+can injure people and damage property. You are solely responsible for every robot
+and system that You control with the Materials or a Derivative. Before You use the
+Materials on a physical machine, You must:
+
+(a) assess the risks of the machine, the task, and the workspace;
+
+(b) install safety measures that fit those risks, such as an emergency stop, speed
+    and force limits, and guarding; and
+
+(c) supervise the machine while it operates.
+
+7. Distribution
+
+If You distribute the Materials or a Derivative, You must:
+
+(a) give each recipient a copy of this license;
+
+(b) keep the NOTICE file and all copyright and attribution notices in the
+    Materials;
+
+(c) state clearly, in each file that You changed, that You changed it;
+
+(d) show the notice "Built with Verne V0.5" in the documentation of the
+    Derivative, or in the product or service that uses it; and
+
+(e) make each recipient subject to Sections 3 to 6 of this license. You may add
+    terms for Your own changes, but those terms must not remove or weaken the
+    restrictions of this license.
+
+An end user under Section 3(e) is not a recipient under this Section.
+
+8. Trademarks
+
+This license gives You no right to use the names, logos, or trademarks of Verne,
+except to give the attribution that Section 7 requires. You must not state or
+suggest that Verne endorses You, Your Derivative, or Your product.
+
+9. Ownership and output
+
+Verne keeps all rights in the Materials that this license does not expressly grant.
+Subject to the rights of Verne in the Materials, You own the changes that You make.
+Verne claims no ownership of the Output or of the Recorded Data.
+
+10. Patent claims
+
+If You start a lawsuit or other proceeding that claims that the Materials, or a
+part of them, infringe a patent or other intellectual property right, all rights
+that this license gives You end on the date that You start it.
+
+11. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, NON-INFRINGEMENT, AND SAFETY. YOU ARE RESPONSIBLE FOR DECIDING
+WHETHER IT IS APPROPRIATE TO USE THE MATERIALS, AND YOU ACCEPT ALL RISKS OF THAT
+USE.
+
+12. Limitation of liability
+
+TO THE MAXIMUM EXTENT THAT THE LAW ALLOWS, VERNE IS NOT LIABLE TO YOU FOR ANY
+DAMAGES THAT COME FROM THIS LICENSE OR FROM THE USE OF THE MATERIALS OR A
+DERIVATIVE. THIS INCLUDES DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+AND PUNITIVE DAMAGES, PERSONAL INJURY, PROPERTY DAMAGE, AND LOST PROFITS, EVEN IF
+VERNE KNEW THAT SUCH DAMAGES WERE POSSIBLE.
+
+13. Indemnity
+
+You will defend and indemnify Verne against third-party claims that come from Your
+products, services, robots, or Derivatives, or from Your breach of this license.
+This includes claims of personal injury and property damage. This Section does not
+apply to a claim that the unmodified Materials infringe the intellectual property
+of a third party.
+
+14. Termination
+
+(a) If You break a term of this license, Verne may send You a notice. If You fix
+    the breach within 30 days after the notice, this license continues. If You do
+    not, this license ends at the end of the 30 days.
+
+(b) This license ends at once, with no notice, if You break Section 4 or Section 5,
+    or if You break a term again after a notice about the same term.
+
+(c) When this license ends, You must stop all use and distribution of the
+    Materials and Derivatives, and delete Your copies. Sections 6, 9, and 11 to 15
+    stay in effect after the license ends.
+
+15. General
+
+(a) The laws of the State of California, USA, govern this license, without regard
+    to conflict-of-law rules. The state and federal courts in San Francisco
+    County, California, have exclusive jurisdiction over any dispute about this
+    license.
+
+(b) If a court finds a term of this license unenforceable, that term changes only
+    as much as necessary to make it enforceable. All other terms stay in effect.
+
+(c) If Verne does not enforce a term, Verne does not waive that term.
+
+(d) This license is the complete agreement between You and Verne about the
+    Materials. Where a separate written commercial license from Verne applies,
+    that license controls.
+
+(e) Verne may publish new versions of this license. A new version applies only to
+    Materials that Verne distributes under that version.
+
+(f) Some parts of the Materials come from third-party projects. The THIRD_PARTY_NOTICES
+    file lists them and their licenses. Those parts stay under their own licenses, and
+    this license does not limit the rights that those licenses give You.
+
+(g) You may transfer this license to a successor in a merger, an acquisition, or a
+    sale of all or most of the business that uses the Materials. You must tell
+    Verne about the transfer in writing. The successor must accept this license,
+    and Section 3 then applies to the Annual Revenue of the successor.
+
+(h) Verne may ask for information, such as Your name, email address,
+    organization, and intended use, before it gives You access to the Materials.
+    Verne may use that information to manage this license and to contact You
+    about the Materials. The Verne Privacy Notice at
+    https://vernerobotics.com/privacy-policy.html describes how Verne processes
+    that information. Your answers do not change the terms of this license.

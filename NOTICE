@@ -1,0 +1,13 @@
+Verne V0.5
+Copyright 2026 Verne Labs, Inc.
+
+The Verne V0.5 weights and code are licensed under the Verne V0.5 Model License.
+See the LICENSE file.
+
+The Verne V0.5 weights are derived from the Wan2.2 video model weights of the Wan
+Team, Alibaba Group (https://github.com/Wan-Video/Wan2.2). Wan2.2 is licensed under
+the Apache License, Version 2.0. Verne Labs, Inc. modified the Wan2.2 weights and
+trained them further.
+
+Parts of the code come from Wan2.2 (Apache License, Version 2.0). The
+THIRD_PARTY_NOTICES file lists them and gives the full license text.

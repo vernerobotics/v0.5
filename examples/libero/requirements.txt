@@ -1,0 +1,9 @@
+bddl==1.0.1
+easydict
+future
+gym==0.25.2
+imageio[ffmpeg]
+matplotlib
+mujoco==3.2.3
+robosuite==1.4.1
+scipy
